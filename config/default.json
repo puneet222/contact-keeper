@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://puneet:puneet@cluster0-ejxov.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
